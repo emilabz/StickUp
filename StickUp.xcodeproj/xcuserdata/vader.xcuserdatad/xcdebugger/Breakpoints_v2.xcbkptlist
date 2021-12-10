@@ -49,8 +49,8 @@
             timestampString = "586131810.963429"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "266"
-            endingLineNumber = "266"
+            startingLineNumber = "267"
+            endingLineNumber = "267"
             landmarkName = "saveImage(info:)"
             landmarkType = "7">
          </BreakpointContent>

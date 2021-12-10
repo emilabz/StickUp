@@ -51,7 +51,8 @@ class NewNoteViewController: UIViewController,UIPickerViewDelegate,UIPickerViewD
                 txtCategory.isHidden=true
             }
         }
-        txtContent.layer.borderWidth=1
+        txtContent.layer.borderWidth=0.5
+        txtContent.layer.borderColor=#colorLiteral(red: 0.501960814, green: 0.501960814, blue: 0.501960814, alpha: 1)
         // Do any additional setup after loading the view.
     }
     
